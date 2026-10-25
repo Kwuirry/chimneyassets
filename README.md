@@ -8,4 +8,7 @@ Click the "Code" button on https://github.com/kwuirry/chimneyassets<br>
 <h4>2.)</h4>
 Click "Download ZIP" at the bottom of the dropdown menu.<br>
 <img width="400" height="331" alt="Screenshot_20261025_130146" src="https://github.com/user-attachments/assets/fee2746f-38e7-4ca3-9205-299205a6aeda" /><br>
-
+<h4>3.)</h4>
+Right click the downloaded zip in the downloads folder (or wherever you saved the ZIP to) and click Extract Here/Uncompress. (Depends on your operating system)
+<h5>4.)</h5>
+Double-click the folder that was created and double click any .html file you wish to open in your browser. Enjoy!
