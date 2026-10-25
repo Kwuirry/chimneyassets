@@ -11,4 +11,8 @@ Click "Download ZIP" at the bottom of the dropdown menu.<br>
 <h4>3.)</h4>
 Right click the downloaded zip in the downloads folder (or wherever you saved the ZIP to) and click Extract Here/Uncompress. (Depends on your operating system)
 <h5>4.)</h5>
-Double-click the folder that was created and double click any .html file you wish to open in your browser. Enjoy!
+Double-click the folder that was created and double click any .html file you wish to open in your browser. Enjoy!<br><br>
+<h3>Google Scripts</h3>
+This is my personal favorite way to run these, as it normally isn't blocked. However, it comes with some complications and I haven't figured out a way to run Gust quite yet.
+<h4>1.)</h4>
+_incomplete guide_
