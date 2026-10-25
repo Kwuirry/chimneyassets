@@ -4,4 +4,4 @@
 This is the simplest way to play these games, although your IT department at your district probably knows about it already.
 <h3>1.)</h3>
 Click the "Code" button on https://github.com/kwuirry/chimneyassets
-<img width="276" height="112" alt="Screenshot_20261025_125455" src="https://github.com/user-attachments/assets/c2a89583-b029-45cf-8e9c-e2c2a930c878" />
+<img width="20" height="40" alt="Screenshot_20261025_125455" src="https://github.com/user-attachments/assets/c2a89583-b029-45cf-8e9c-e2c2a930c878" />
