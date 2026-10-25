@@ -15,4 +15,4 @@ Double-click the folder that was created and double click any .html file you wis
 <h3>Google Scripts</h3>
 This is my personal favorite way to run these, as it normally isn't blocked. However, it comes with some complications and I haven't figured out a way to run Gust quite yet.
 <h4>1.)</h4>
-_incomplete guide_
+<i>incomplete, sorry! D:</i>
